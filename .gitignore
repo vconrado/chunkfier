@@ -51,17 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-
-
 build/Makefile.am
 build/aclocal.m4
 build/autom4te.cache/
@@ -71,3 +60,9 @@ build/depcomp
 build/install-sh
 build/missing
 
+
+build/.deps/
+build/Makefile
+build/chunkfier
+build/config.log
+build/config.status
